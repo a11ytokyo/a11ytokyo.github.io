@@ -1,0 +1,7 @@
+markdown: kramdown
+pygments: true
+exclude:
+  - README.md
+
+name: アクセシビリティキャンプ東京
+url: http://a11ytokyo.github.io

@@ -1,5 +1,5 @@
 ---
-layout: mixed
+layout: common
 ---
 
 # 概要

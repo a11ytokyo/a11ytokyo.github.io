@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: common
 title: イベント情報
 ---
 # イベント情報

@@ -12,3 +12,4 @@
 * Gitってなんだろう？、という方は、[Issues](https://github.com/a11ytokyo/a11ytokyo.github.io/issues)から連絡いただけるとスムーズです。
     * Zipで固めて何らかの形でお送りいただくような形でも構いません（当面）。
 
+詳しくは[a11ytokyo.github.ioについて](https://github.com/a11ytokyo/a11ytokyo.github.io/wiki/a11ytokyo.github.io%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)をご覧ください。

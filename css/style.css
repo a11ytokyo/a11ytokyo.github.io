@@ -69,8 +69,7 @@ body {
 
 	#title,
 	#header nav,
-	#header ul,
-	#header li {
+	#header ul {
 		display: block;
 	}
 
@@ -93,13 +92,9 @@ body {
 	#header li {
 		border-style: none solid none none;
 		border-right-width: 1px;
-		float: left;
+		display: inline-block;
 		margin: 0;
 		padding: .25em 1.5em;
-	}
-
-	#main {
-		clear: both;
 	}
 
 }

@@ -49,8 +49,22 @@ body {
 
 @media all and (min-width:640px) {
 
+	#header {
+		padding-top: 315px;
+	}
+
 	#title {
-		text-align: right;
+		position: relative;
+		top: -315px;
+	}
+
+	#title img {
+		overflow: hidden;
+		position: absolute;
+		right: 0;
+		top: 0;
+		height: 315px;
+		width: 851px;
 	}
 
 	#title,

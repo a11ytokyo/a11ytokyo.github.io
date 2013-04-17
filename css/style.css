@@ -25,10 +25,13 @@ body {
 		border-style: none solid;
 		border-width: 0 1px;
 		margin: 0 auto;
-		max-width: 853px;
+		max-width: 851px;
 	}
 	#header {
 		padding: 0;
+	}
+	#header h1 {
+		margin: 0;
 	}
 	#main {
 		padding: .5em 1em;

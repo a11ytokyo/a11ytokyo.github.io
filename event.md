@@ -90,7 +90,7 @@ title: 過去のイベント
 
 ### 当日の様子
 
-* [アクセシビリティキャンプ東京#2 | 水無月ばけらのえび日記](http://bakera.jp/ebi/topic/4841)
+* [アクセシビリティキャンプ東京#2 \| 水無月ばけらのえび日記](http://bakera.jp/ebi/topic/4841)
 * [支援技術を利用する様子に関する実演動画](http://www.youtube.com/playlist?list=PLLUSDE9UHNftRwL7gYg1iab-6yTv0XEEc)
 * [togetterまとめ](http://togetter.com/li/353151)
 

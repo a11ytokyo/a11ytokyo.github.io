@@ -18,10 +18,6 @@ layout: common
 併せてご覧いただければ幸いです。
 
 
-申し込み
-:   [facebookにて受け付中](https://www.facebook.com/events/217278211758325/)
-
-
 # アクセシビリティキャンプ東京 #7	{#schedule}
 
 次回は「移動」がテーマです。

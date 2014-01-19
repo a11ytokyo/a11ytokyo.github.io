@@ -30,7 +30,10 @@ title: 過去のイベント
 健常者にとってもアクセシブルなデザインにしてゆくことが必要なのではないか、
 などといったことについて3グループで話し合いました。
 
+### 当日の様子
 
+* [togetterまとめ](http://togetter.com/li/617729)
+* [第9回アクセシビリティキャンプ東京 \| 覚え書き \| @kazuhito](http://kidachi.kazuhi.to/blog/archives/038067.html)
 
 
 ## [アクセシビリティキャンプ東京 #8](http://atnd.org/event/a11ytokyo8/)	{#camp-8}
